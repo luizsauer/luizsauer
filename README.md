@@ -1,25 +1,92 @@
-<div>
-  <a href="https://github.com/luizsauer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizsauer&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsauer&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-  <a href="https://www.youtube.com/luizsauer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/luizsauer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:luizauer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/luizsauer/luizsauer/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=150&section=header&text=Luiz%20Sauer&fontSize=50&fontColor=ffffff&fontAlignY=35"/>
 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39ff14&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Luiz+Sauer!;Desenvolvedor+apaixonado+por+tecnologia;Sempre+aprendendo+novas+ferramentas;Bem-vindo+ao+meu+perfil!+👋)](https://git.io/typing-svg)
 </div>
+
+---
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td width="50%" style="vertical-align: top;">
+        <h3 align="left">🚀 Sobre mim</h3>
+        <p align="left">
+          💡 Apaixonado por <b>automação</b>, <b>Python</b> e criação de conteúdo.<br>
+          ✨ Busco constantemente transformar ideias em código.<br>
+          📚 Estudante entusiasta de novas tecnologias.<br>
+          🌍 Baseado no Brasil.
+        </p>
+      </td>
+      <td width="50%" style="vertical-align: top;">
+        <h3 align="left">📬 Conecte-se comigo</h3>
+        <p align="left">
+          <a href="https://www.linkedin.com/in/luizsauer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"></a><br>
+          <a href="https://www.youtube.com/luizsauer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a><br>
+          <a href="https://instagram.com/luizsauer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"></a><br>
+          <a href="mailto:luizauer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white"></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🛠️ Tech Stack & Expertise
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,git,docker,linux,mysql,bash,vscode,github,postman" alt="My Skills" />
+</div>
+
+<br>
+
+<div align="left">
+  <ul>
+    <li><b>Linguagens:</b> Python, JavaScript (ES6+), HTML5, CSS3</li>
+    <li><b>Ferramentas:</b> Git, Docker, Linux (Ubuntu/Debian), Bash</li>
+    <li><b>Outros:</b> Automação de processos, APIs REST, Desenvolvimento Web</li>
+  </ul>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luizsauer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsauer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=luizsauer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizsauer&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+---
+
+### 🐍 Snake Game
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <p><b>Visitantes</b></p>
+  <img src="https://profile-counter.glitch.me/luizsauer/count.svg" alt="Visitor Counter" />
+  <br><br>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=footer"/>
+</div>>
+
+
