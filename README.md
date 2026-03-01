@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=header&text=%20&fontSize=50&fontColor=ffffff&fontAlignY=35" width="100%"/>
+
+[//]: # (  <img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=header&text=%20&fontSize=50&fontColor=ffffff&fontAlignY=35" width="100%"/>)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39ff14&size=25&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Luiz+Sauer!;Developer+passionate+about+technology;Always+learning+new+tools;Welcome+to+my+profile!)](https://git.io/typing-svg)
 </div>
@@ -66,18 +67,9 @@
 ---
 
 ### 🐍 My Contributions
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+![svg](./profile-3d-contrib/profile-night-green.svg)
 
----
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=footer"/>
-</div>>
+
 
 
