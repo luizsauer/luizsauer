@@ -22,8 +22,9 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git checkout --orphan profile-3d-contrib
-          git rm -rf .
+          git fetch origin
+          git checkout --orphan profile-3d-contrib || git checkout profile-3d-contrib
+          git rm -rf . || true
           git add profile-3d-contrib/
-          git commit -m "generated"
+          git commit -m "generated" --allow-empty
           git push --force origin profile-3d-contrib
