@@ -6,6 +6,17 @@
 
 ---
 
+### 🐍 My Contributions
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 <div align="center">
   <table style="border: none;">
     <tr>
@@ -39,16 +50,6 @@
   <img src="https://skillicons.dev/icons?i=py,js,html,css,git,docker,linux,mysql,bash,vscode,github,postman" alt="My Skills" />
 </div>
 
-<br>
-
-<div align="left">
-  <ul>
-    <li><b>Linguagens:</b> Python, JavaScript (ES6+), HTML5, CSS3</li>
-    <li><b>Ferramentas:</b> Git, Docker, Linux (Ubuntu/Debian), Bash</li>
-    <li><b>Outros:</b> Automação de processos, APIs REST, Desenvolvimento Web</li>
-  </ul>
-</div>
-
 ---
 
 ### 📊 GitHub Stats
@@ -65,21 +66,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizsauer&theme=tokyonight" alt="Profile Summary" />
-</div>
-
----
-
-### 🐍 Snake Game
-
-<div align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake.svg">
-</div>
-
----
-
-<div align="center">
-  <br>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=footer"/>
 </div>>
 
