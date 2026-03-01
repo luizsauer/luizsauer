@@ -1,40 +1,31 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=150&section=header&text=Luiz%20Sauer&fontSize=50&fontColor=ffffff&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=header&text=%20&fontSize=50&fontColor=ffffff&fontAlignY=35" width="100%"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39ff14&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Luiz+Sauer!;Desenvolvedor+apaixonado+por+tecnologia;Sempre+aprendendo+novas+ferramentas;Bem-vindo+ao+meu+perfil!+👋)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39ff14&size=25&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Luiz+Sauer!;Developer+passionate+about+technology;Always+learning+new+tools;Welcome+to+my+profile!)](https://git.io/typing-svg)
 </div>
 
----
 
-### 🐍 My Contributions
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
 
 <div align="center">
   <table style="border: none;">
     <tr>
       <td width="50%" style="vertical-align: top;">
-        <h3 align="left">🚀 Sobre mim</h3>
+        <h3 align="left">🚀 About me</h3>
         <p align="left">
-          💡 Apaixonado por <b>automação</b>, <b>Python</b> e criação de conteúdo.<br>
-          ✨ Busco constantemente transformar ideias em código.<br>
-          📚 Estudante entusiasta de novas tecnologias.<br>
-          🌍 Baseado no Brasil.
+          💡 Passionate about <b>automation</b>, <b>Python</b> and content creation.<br>
+          ✨ Constantly seeking to transform ideas into code.<br>
+          📚 Enthusiastic student of new technologies.<br>
+          🌍 Based in Brazil.
         </p>
       </td>
       <td width="50%" style="vertical-align: top;">
-        <h3 align="left">📬 Conecte-se comigo</h3>
+        <h3 align="left">📬 Connect with me</h3>
         <p align="left">
           <a href="https://www.linkedin.com/in/luizsauer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"></a><br>
-          <a href="https://www.youtube.com/luizsauer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a><br>
-          <a href="https://instagram.com/luizsauer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"></a><br>
+
+
+[//]: # (          <a href="https://www.youtube.com/luizsauer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a><br>)
+          <a href="https://instagram.com/luizhsauer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"></a><br>
           <a href="mailto:luizauer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white"></a>
         </p>
       </td>
@@ -64,6 +55,19 @@
 </div>
 
 <br>
+
+---
+
+### 🐍 My Contributions
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=footer"/>
