@@ -43,12 +43,12 @@
 
 [//]: # ([![My Skills]&#40;https://skillicons.dev/icons?i=js,ts,css,tailwind,react,nodejs,py,cs,dotnet,mysql,postgres,sqlite,postman,docker,linux,bash,git,github,figma,sentry&theme=dark&perline=10&#41;]&#40;https://skillicons.dev&#41;)
 
-
-<p align="center">
+<h3 align="left">🛠 Tech Stack & Expertise</h3>
+<div align="left" style="padding-left: 20px;">
   <a href="https://skillicons.dev">
-    <img height="40"  src="https://skillicons.dev/icons?i=js,ts,css,tailwind,react,nodejs,py,cs,dotnet,mysql,postgres,sqlite,postman,docker,linux,bash,git,github,figma,sentry&theme=dark&perline=10" />
+    <img width="60%" src="https://skillicons.dev/icons?i=js,ts,css,tailwind,react,nodejs,py,cs,dotnet,mysql,postgres,sqlite,postman,docker,linux,bash,git,github,figma,sentry&theme=dark&perline=10" />
   </a>
-</p>
+</div>
 
 ---
 
