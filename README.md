@@ -22,9 +22,6 @@
         <h3 align="left">📬 Connect with me</h3>
         <p align="left">
           <a href="https://www.linkedin.com/in/luizsauer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"></a><br>
-
-
-[//]: # (          <a href="https://www.youtube.com/luizsauer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a><br>)
           <a href="https://instagram.com/luizhsauer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"></a><br>
           <a href="mailto:luizauer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white"></a>
         </p>
@@ -39,6 +36,16 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,js,html,css,git,docker,linux,mysql,bash,vscode,github,postman" alt="My Skills" />
+</div>
+
+<br>
+
+<div align="left">
+  <ul>
+    <li><b>Languages:</b> Python, JavaScript (ES6+), React, Node.js, C#</li>
+    <li><b>Tools:</b> Git, Docker, Linux (Ubuntu/Debian), Bash</li>
+    <li><b>Others:</b> Process automation, REST APIs, FullStack Development, SQL</li>
+  </ul>
 </div>
 
 ---
