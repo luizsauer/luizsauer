@@ -53,19 +53,25 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizsauer&theme=tokyonight" alt="profile-summary-cards"/>
+   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizsauer&theme=vision_friendly_dark" alt="profile-summary-cards"/>
+</div>
+<div align="center">
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizsauer&theme=vision_friendly_dark" alt="GitHub Stats" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizsauer&theme=vision_friendly_dark&utcOffset=-3" alt="Productive Time" />
+</div>
+<div align="center">
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizsauer&theme=vision_friendly_dark&exclude={exclude}" alt="GitHub Stats" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizsauer&theme=vision_friendly_dark&exclude={exclude}" alt="Productive Time" />
 </div>
 
 <div align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=luizsauer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=luizsauer&theme=vision_friendly_dark&hide_border=true" alt="GitHub Streak" />
 </div>
-
 <br>
 
 ---
-
 ### 🐍 My Contributions
-![svg](./profile-3d-contrib/profile-night-green.svg)
+![svg](./profile-3d-contrib/profile-night-view.svg)
 
 
 
