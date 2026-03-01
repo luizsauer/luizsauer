@@ -72,17 +72,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizsauer&theme=gotham" alt="GitHub Stats" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizsauer&theme=gotham&count_private=true" alt="GitHub Stats" />
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizsauer&theme=gotham&utcOffset=-3" alt="Productive Time" />
-
-[//]: # (  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizsauer&theme=gotham&exclude={exclude}" alt="Productive Time" />)
 </div>
 <div align="center">
    <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizsauer&theme=gotham" alt="profile-summary-cards"/>
-
-[//]: # (  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizsauer&theme=gotham&exclude={exclude}" alt="GitHub Stats" />)
 </div>
 <div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=luizsauer&show_icons=true&theme=gotham&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsauer&layout=compact&theme=gotham&count_private=true&hide_border=true" alt="Top Languages" />
 </div>
 
 
