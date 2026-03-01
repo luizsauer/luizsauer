@@ -73,19 +73,13 @@
 ### 🐍 Snake Game
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luizsauer/luizsauer/output/github-contribution-grid-snake.svg">
 </div>
 
 ---
 
 <div align="center">
-  <p><b>Visitantes</b></p>
-  <img src="https://profile-counter.glitch.me/luizsauer/count.svg" alt="Visitor Counter" />
-  <br><br>
+  <br>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=footer"/>
 </div>>
 
