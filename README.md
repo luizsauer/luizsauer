@@ -43,7 +43,6 @@
 
 [//]: # ([![My Skills]&#40;https://skillicons.dev/icons?i=js,ts,css,tailwind,react,nodejs,py,cs,dotnet,mysql,postgres,sqlite,postman,docker,linux,bash,git,github,figma,sentry&theme=dark&perline=10&#41;]&#40;https://skillicons.dev&#41;)
 
-<h3 align="left">🛠 Tech Stack & Expertise</h3>
 <div align="left" style="padding-left: 20px;">
   <a href="https://skillicons.dev">
     <img width="60%" src="https://skillicons.dev/icons?i=js,ts,css,tailwind,react,nodejs,py,cs,dotnet,mysql,postgres,sqlite,postman,docker,linux,bash,git,github,figma,sentry&theme=dark&perline=10" />
@@ -79,8 +78,8 @@
    <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizsauer&theme=gotham" alt="profile-summary-cards"/>
 </div>
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=luizsauer&show_icons=true&theme=gotham&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img width="40%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=luizsauer&layout=compact&theme=gotham&count_private=true&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-statss-kohl.vercel.app/api?username=luizsauer&show_icons=true&theme=gotham&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-statss-kohl.vercel.app/api/top-langs/?username=luizsauer&layout=compact&theme=gotham&count_private=true&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 
