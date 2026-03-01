@@ -10,16 +10,14 @@
 <div align="center">
   <table style="border: none;">
     <tr>
-      <td width="50%" style="vertical-align: top;">
+      <td width="60%" style="vertical-align: top;">
         <h3 align="left">🚀 About me</h3>
         <p align="left">
-          💡 Passionate about <b>automation</b>, <b>Python</b> and content creation.<br>
-          ✨ Constantly seeking to transform ideas into code.<br>
-          📚 Enthusiastic student of new technologies.<br>
-          🌍 Based in Brazil.
+          I'm a Developer passionate about <b>automation</b>, <b>Python</b>, and building efficient systems. <br>
+          With a focus on <b>clean code</b> and <b>modern architectures</b>, I'm constantly seeking to transform complex ideas into scalable solutions.
         </p>
       </td>
-      <td width="50%" style="vertical-align: top;">
+      <td width="40%" style="vertical-align: top;">
         <h3 align="left">📬 Connect with me</h3>
         <p align="left">
           <a href="https://www.linkedin.com/in/luizsauer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"></a><br>
@@ -33,50 +31,63 @@
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 🛠 Tech Stack & Expertise
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,git,docker,linux,mysql,bash,vscode,github,postman" alt="My Skills" />
-</div>
+- **Languages & Frameworks:** Python, JavaScript (ES6+), React, Node.js, C#, ASP.NET Core
+- **Databases:** MySQL, PostgreSQL, SQL Server
+- **DevOps & Cloud:** Docker, Linux (Ubuntu/Debian), Git, GitHub Actions, CI/CD Pipelines
+- **Architectures:** RESTful APIs, Microservices, Asynchronous Messaging
+- **Testing & Quality:** Unit Testing, Integration Testing, Code Reviews, Static Analysis
+- **Tools & Practices:** Postman, CI/CD, Test-Driven Development (TDD), Clean Code Principles
+- **Other Skills:** Automation, System Design, Performance Optimization, Code Reviews, Open Source Contribution
 
-<br>
+[//]: # ([![My Skills]&#40;https://skillicons.dev/icons?i=js,ts,css,tailwind,react,nodejs,py,cs,dotnet,mysql,postgres,sqlite,postman,docker,linux,bash,git,github,figma,sentry&theme=dark&perline=10&#41;]&#40;https://skillicons.dev&#41;)
 
-<div align="left">
-  <ul>
-    <li><b>Languages:</b> Python, JavaScript (ES6+), React, Node.js, C#</li>
-    <li><b>Tools:</b> Git, Docker, Linux (Ubuntu/Debian), Bash</li>
-    <li><b>Others:</b> Process automation, REST APIs, FullStack Development, SQL</li>
-  </ul>
-</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img width="90%"  src="https://skillicons.dev/icons?i=js,ts,css,tailwind,react,nodejs,py,cs,dotnet,mysql,postgres,sqlite,postman,docker,linux,bash,git,github,figma,sentry&theme=dark&perline=10" />
+  </a>
+</p>
+
+---
+
+### 📈 What I Do
+
+- Design and implement **automation workflows** and **web applications**
+- Optimize **database performance** and **system reliability**
+- Build **scalable back-end services** and **interactive front-end interfaces**
+- Deliver **clean, secure, and maintainable** software solutions
+
+---
+
+### 📚 Highlights
+
+- Passionate about **clean architecture**, **automation**, and **continuous learning**
+- Experienced in **fullstack development** and **system integration**
+- Dedicated to building **open-source projects** and contributing to the tech community
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizsauer&theme=gotham" alt="GitHub Stats" />
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizsauer&theme=gotham&utcOffset=-3" alt="Productive Time" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizsauer&theme=gotham" alt="GitHub Stats" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizsauer&theme=gotham&utcOffset=-3" alt="Productive Time" />
+
+[//]: # (  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizsauer&theme=gotham&exclude={exclude}" alt="Productive Time" />)
 </div>
 <div align="center">
-   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizsauer&theme=gotham" alt="profile-summary-cards"/>
+   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizsauer&theme=gotham" alt="profile-summary-cards"/>
+
+[//]: # (  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizsauer&theme=gotham&exclude={exclude}" alt="GitHub Stats" />)
 </div>
 <div align="center">
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizsauer&theme=gotham&exclude={exclude}" alt="GitHub Stats" />
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizsauer&theme=gotham&exclude={exclude}" alt="Productive Time" />
 </div>
 
-[//]: # (<div align="center">)
 
-[//]: # (  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=luizsauer&theme=gotham&hide_border=true" alt="GitHub Streak" />)
+[//]: # (![svg]&#40;./profile-3d-contrib/profile-night-view.svg&#41;)
 
-[//]: # (</div>)
-<br>
-
----
-### 🐍 My Contributions
-![svg](./profile-3d-contrib/profile-night-view.svg)
-
-
-
-
-
+<div align="center">
+  <img width="90%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" />
+</div>
